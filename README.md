@@ -1,5 +1,5 @@
 # Facebook-Friend-Recommendation-Problem
-Given a directed social graph, have to predict missing links to recommend users (Link Prediction in graph)
+Given a directed social graph, have to predict missing links to recommend friends (Link Prediction in graph)
 
 Worked on this Kaggle dataset provided by Facebook 
 Link : https://www.kaggle.com/c/FacebookRecruiting
